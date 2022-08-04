@@ -2221,9 +2221,10 @@ input[type='checkbox'] {
 
 /* Main Header Layout */
 .header-wrapper {
-  display: inline-flex;
+  display: block;
   position: relative;
   background-color: rgb(var(--color-background));
+  margin-bottom: 0px;
 }
 
 .header-wrapper--border-bottom {
