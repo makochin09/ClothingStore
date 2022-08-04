@@ -21,7 +21,7 @@
 
 .color-accent-1 {
   --color-foreground: var(--color-base-solid-button-labels);
-  --color-background: skyblue (var(--color-base-accent-1);
+  --color-background: skyblue var(--color-base-accent-1);
   --gradient-background: var(--gradient-base-accent-1);
 }
 
