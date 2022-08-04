@@ -2897,8 +2897,20 @@ details-disclosure > details {
     color: #fff !important;
 }
 .announcement-bar__message {
-  text-align: left;
-  padding: 1rem 2rem;
-  margin: 0;
-  letter-spacing: 0.1rem;
+position: absolute;
+width: 293px;
+height: 23px;
+left: 94px;
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
 }
