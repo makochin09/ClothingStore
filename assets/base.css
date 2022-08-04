@@ -2221,7 +2221,7 @@ input[type='checkbox'] {
 
 /* Main Header Layout */
 .header-wrapper {
-/*   display: block; */
+  display: block;
   position: relative;
   background-color: rgb(var(--color-background));
 }
@@ -2235,6 +2235,7 @@ input[type='checkbox'] {
   grid-template-areas: 'left-icon heading icons';
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
+  marging: 0px;
 }
 
 @media screen and (min-width: 990px) {
