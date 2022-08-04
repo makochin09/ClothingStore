@@ -2224,7 +2224,7 @@ input[type='checkbox'] {
   display: block;
   position: relative;
   background-color: rgb(var(--color-background));
-  margin-bottom: 0px;
+
 }
 
 .header-wrapper--border-bottom {
@@ -2236,7 +2236,6 @@ input[type='checkbox'] {
   grid-template-areas: 'left-icon heading icons';
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-  margin-bottom: 0px;
 }
 
 @media screen and (min-width: 990px) {
@@ -2261,7 +2260,7 @@ input[type='checkbox'] {
   }
 
   .header:not(.header--middle-left) .header__inline-menu {
-    margin-top: 1.05rem;
+    margin-top: .05rem;
   }
 }
 
