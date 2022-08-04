@@ -21,7 +21,7 @@
 
 .color-accent-1 {
   --color-foreground: var(--color-base-solid-button-labels);
-  --color-background: skyblue var(--color-base-accent-1);
+  --color-background: var(--color-base-accent-1);
   --gradient-background: var(--gradient-base-accent-1);
 }
 
@@ -2885,4 +2885,9 @@ details-disclosure > details {
 
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
+}
+.color-accent-1{
+	background-color: #769EC1 !important;
+    border-color: #000 !important;
+    color: #fff !important;
 }
