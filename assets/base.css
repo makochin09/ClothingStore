@@ -2897,7 +2897,6 @@ details-disclosure > details {
     color: #fff !important;
 }
 .announcement-bar__message {
-position: absolute;
 width: 293px;
 height: 23px;
 left: 94px;
@@ -2910,7 +2909,5 @@ font-size: 15px;
 line-height: 22px;
 /* identical to box height */
 text-align: center;
-
-color: #FFFFFF;
 
 }
