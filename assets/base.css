@@ -2896,6 +2896,9 @@ details-disclosure > details {
     border-color: #000 !important;
     color: #fff !important;
 }
-p{
-  text-align: right;
+.announcement-bar__message {
+  text-align: left;
+  padding: 1rem 2rem;
+  margin: 0;
+  letter-spacing: 0.1rem;
 }
