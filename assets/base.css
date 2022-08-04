@@ -460,7 +460,7 @@ h4,
 h5,
 .h5 {
   font-size: calc(var(--font-heading-scale) * 1.2rem);
-  text-align: right;
+  
 }
 
 @media only screen and (min-width: 750px) {
@@ -2895,4 +2895,7 @@ details-disclosure > details {
 	background-color: #D93939 !important;
     border-color: #000 !important;
     color: #fff !important;
+}
+.announcement-bar.name{
+  text-align: right;
 }
