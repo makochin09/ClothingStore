@@ -2568,13 +2568,10 @@ details[open] > .header__submenu {
   grid-area: navigation;
   display: none;
   color: #D93939;
-
-
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
-  line-height: 30px
 }
 
 .header--top-center .header__inline-menu,
