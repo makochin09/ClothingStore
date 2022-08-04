@@ -2634,7 +2634,6 @@ details[open] > .header__menu-item .icon-caret {
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
   color: #D93939;
-  text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
 
