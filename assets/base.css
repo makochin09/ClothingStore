@@ -2915,7 +2915,7 @@ text-align: left;
 
 .header__heading-logo {
   height: 100px;
-  width: 120px;
+  width: 100%;
   left: 94px;
   top: 53px;
   border-radius: 0px;
