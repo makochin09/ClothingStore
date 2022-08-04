@@ -2896,11 +2896,12 @@ details-disclosure > details {
     border-color: #000 !important;
     color: #fff !important;
 }
-.announcement-bar__message {
-width: 1440px;
-height: 47px;
+.announcement-bar__message h5 {
+height: 23px;
+width: 293px;
 left: 94px;
 top: 16px;
+border-radius: nullpx;
 
 font-family: 'Poppins';
 font-style: normal;
